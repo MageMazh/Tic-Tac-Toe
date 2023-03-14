@@ -1,0 +1,23 @@
+.boardrow {
+    display: flex;
+    margin-left: 50px;
+}
+.tes {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    gap: 50px;
+}
+li {
+    list-style-type: none;
+}
+p {
+    font-weight: 500;
+}
+.score {
+    background-color: aqua;
+    width:100%;
+    margin-right: 50px;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
